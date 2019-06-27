@@ -1,0 +1,33 @@
+body
+{
+    background-color: rgb(127, 157, 170)  !important;
+
+}
+
+.titulo{
+    color: #ffffff  !important;
+    font-size: 8em  !important;
+    font-family: Georgia, 'Times New Roman', Times, serif  !important;
+}
+
+.btn-primary
+{
+    background-color: violet !important;
+}
+
+.carousel
+{
+ width: 600px  !important;
+ margin: 0 auto  !important; 
+}
+
+.mitexto
+{
+    font-size: 20px  !important;
+    color: #ffffff  !important;
+}
+
+.alert
+{
+    color: blue  !important;
+}
